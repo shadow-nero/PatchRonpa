@@ -3,10 +3,12 @@
     {
       "name": "Danganronpa 1",
       "detalhes": "Esse seria o Danganronpa 1",
+      "imgUrl": "https://raw.githubusercontent.com/shadow-nero/PatchRonpa/main/config/Img/DR1.png",
     },
     {
       "name": "Danganronpa 2",
       "detalhes": "Esse o Danganronpa 2x2",
+      "imgUrl": "https://raw.githubusercontent.com/shadow-nero/PatchRonpa/main/config/Img/DR2.png",
     }
   ]
 }
