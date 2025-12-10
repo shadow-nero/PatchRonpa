@@ -1,0 +1,14 @@
+{
+  "games": [
+    {
+      "name": "Danganronpa 1",
+      "txt": "Esse seria o Danganronpa 1",
+      "image": "https://raw.githubusercontent.com/usuario/repo/main/jogos/jogo1.png"
+    },
+    {
+      "name": "Danganronpa 2",
+      "txt": "Esse seria o Danganronpa 2",
+      "image": "https://raw.githubusercontent.com/usuario/repo/main/jogos/jogo2.png"
+    }
+  ]
+}
